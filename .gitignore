@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/out/test/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Files/Theory/out/
+/Topics/Files/Theory/out/production/classes/
+/Topics/java.util.Arrays/Array sorting/out/
+/Topics/java.util.Arrays/Array sorting/out/production/classes/
+/Topics/java.util.Arrays/Copy the array range/out/
+/Topics/java.util.Arrays/Copy the array range/out/production/classes/
+/Topics/java.util.Arrays/Theory/out/
+/Topics/java.util.Arrays/Theory/out/production/classes/
